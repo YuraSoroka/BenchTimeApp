@@ -17,4 +17,8 @@
     <PackageReference Include="Microsoft.Identity.Web.UI" Version="1.25.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BenchTimeApp.Library\BenchTimeApp.Library.csproj" />
+  </ItemGroup>
+
 </Project>
